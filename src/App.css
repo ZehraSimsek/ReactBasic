@@ -1,0 +1,12 @@
+.container {
+  width: 400px;
+  padding: 20px;
+  background-color:aliceblue;
+  margin: auto;
+  border-radius: 80px;
+  -webkit-border-radius: 80px;
+  -moz-border-radius: 80px;
+  -ms-border-radius: 80px;
+  -o-border-radius: 80px;
+  box-shadow: 10px 10px 30px blueviolet;
+}
